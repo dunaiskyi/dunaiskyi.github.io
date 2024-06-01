@@ -1723,7 +1723,8 @@ to {
     justify-content: space-between;
 }
 #scroll_menu .insert .logo img {
-    height: 60px;
+    height: 40px;
+    margin: 10px 0;
 }
 #scroll_menu .insert .title {
     display: grid;

@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $("head").append("<link rel='stylesheet' type='text/css' href='сss/index.css' />");
-    $("head").append("<link rel='stylesheet' type='text/css' href='libs/Font-Awesome/css/font-awesome.min.css' />");
+    $("head").append("<link rel='stylesheet' type='text/css' href='css/font-awesome.min.css' />");
       var $menu = $("#scroll_menu");
       $(window).scroll(function(){
           if ( $(this).scrollTop() > $("header").height() * 0.7 && $menu.hasClass("hide") ){

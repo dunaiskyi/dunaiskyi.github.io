@@ -1581,7 +1581,7 @@ body {
     border: none;
     color: #fff;
     text-decoration: none;
-    background-color: #f0650d;
+    background-color: #afc424;
     padding: 15px 40px;
     letter-spacing: 2px;
     border-radius: 2px;
@@ -1608,13 +1608,13 @@ body {
     color: #fff;
 }
 .button:hover {
-    background-color: #f37423;
+    background-color: #97c424;
 }
 .button:hover:after {
     opacity: .22;
 }
 .button:active {
-    background-color: #d85b0c;
+    background-color: #bfc424;
 }
 .button:active:after {
     opacity: .32;
@@ -1626,7 +1626,7 @@ body {
 }
 hr {
     margin: 0 10px;
-    color: #f0650d;
+    color: #afc424;
 }
 header {
     display: grid;
@@ -1723,7 +1723,8 @@ to {
     justify-content: space-between;
 }
 #scroll_menu .insert .logo img {
-    height: 60px;
+    height: 40px;
+    margin: 10px 0;
 }
 #scroll_menu .insert .title {
     display: grid;
@@ -1811,7 +1812,7 @@ to {
     color: #293a43;
 }
 .list i {
-    color: #f0650d;
+    color: #afc424;
 }
 #my_map_1 {
     width: 100%;
@@ -1833,7 +1834,7 @@ to {
     text-align: center;
 }
 .map .text i {
-    color: #f0650d;
+    color: #afc424;
 }
 .image .photos {
     display: grid;

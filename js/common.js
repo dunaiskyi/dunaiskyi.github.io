@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $("head").append("<link rel='stylesheet' type='text/css' href='сss/style.css' />");
+    $("head").append("<link rel='stylesheet' type='text/css' href='сss/index.css' />");
     $("head").append("<link rel='stylesheet' type='text/css' href='libs/Font-Awesome/css/font-awesome.min.css' />");
       var $menu = $("#scroll_menu");
       $(window).scroll(function(){

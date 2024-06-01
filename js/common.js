@@ -46,7 +46,7 @@ $(document).ready(function(){
 
   function loadScript() {
       var script = document.createElement("script");
-      script.src = "http://maps.google.com/maps/api/js?sensor=false&callback=initialize&key=AIzaSyCQsFePJ5LRa6ttFQV2patpz-Jw-0KvG0c";
+      script.src = "https://maps.google.com/maps/api/js?sensor=false&callback=initialize&key=AIzaSyCQsFePJ5LRa6ttFQV2patpz-Jw-0KvG0c";
       document.body.appendChild(script);
   }
 
